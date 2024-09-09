@@ -1,5 +1,5 @@
 
-Develop a Keras neural network to predict concrete strength based on material composition. Utilize features like cement, slag, and age for accurate regression modeling. 🏗️🧱
+Developing a Keras neural network to predict concrete strength based on material composition. Utilize features like cement, slag, and age for accurate regression modeling. 🏗️🧱
 # Project Title: Cement Strength Prediction using Keras Neural Network Regression
 
 
